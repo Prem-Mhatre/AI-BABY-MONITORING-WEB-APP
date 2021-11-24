@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading hr{
+    width: 50%;
+}
+.note{
+    font-size: 20px;
+    font-weight: bold;
+}
+#status, #baby_status{
+    font-size: 18px;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px blue;
+    margin-top: 200px;
+}
